@@ -1,7 +1,7 @@
-# mergeCollection
+# merge two sorted collection
 
-** clone the repo ** 
+### clone the repo 
 git clone https://github.com/Ftyma/mergeCollection.git
 
-** run test **
+### run test 
 npm test
