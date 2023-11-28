@@ -1,3 +1,5 @@
 # mergecollection
 
-# clone project and run test file `npm test`
+### git clone project
+### run test file 
+`npm test`
